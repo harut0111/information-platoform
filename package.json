@@ -44,6 +44,6 @@
     "eslint": "^5.16.0",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-redux": "^3.0.1",
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^5.0.0"
   }
 }
